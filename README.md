@@ -39,7 +39,7 @@ Available API calls are:
 >      * reads
 >      * likes
 >      * popularity
->   * direction - sort the posts in either asc (ascending) or desc (descending) order 
+>   * direction - optional query parameter to sort the posts in either asc (ascending) or desc (descending) order 
 
 To test the API endpoints, run:
 ```bash
