@@ -1,8 +1,6 @@
 # Blog Posts
 ##### Hatchways BE assessment
 
->__I was not able to commit to a full sitting during the assessment. Therefore, I spent 4 hours working on this in total. I spent two hours last night and two hours today to finish it. I had to learn many of the technologies as I worked on it and therefore took my a little bit longer than expected. I feel very comfortable with the work that I did now.__
-
 
 ## Specifications
 Here are the versions of the technologies I used:
